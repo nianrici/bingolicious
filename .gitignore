@@ -1,0 +1,8 @@
+/__pycache__/
+/node_modules/
+/app.py~
+/static/js/sorteo.js~
+/tailwind.config.js~
+/templates/index.html~
+/package-lock.json
+/pnpm-lock.yaml

@@ -1,0 +1,17 @@
+#+TITLE: Bingolicious
+
+Aplicación simplona de un generador de números (pseudo)aleatórios para jugar al bingo sin tener que sabar el bombo de plastico y jugarte la vida con las bolas esas enanas.
+
+*ATENCIÓN*: No incluye el generador de cartones ni el tipo que canta los números, por ejemplo: "22, los dos patitos", "15, la niña bonita", "68, ahora me debes una", etc... No descarto añadir esa funcionalidad en el futuro. 
+
+* Características
+- Interfaz sencilla pero agradable.
+- Lista los números que ya han salido en el orden en el que salieron.
+- Automáticamente descarta los números que han salido apra evitar que se repitan.
+
+
+* Instalación
+Necesitarás python, [[https://github.com/charmbracelet/gum][gum]] y ejecutar el script de instalación.
+
+* Uso
+Lo suyo es usarlo en un PC (algún día puede que lo pase a Android, pero todavía no controlo tanto como para hacerlo) Una vez ejecutado el script de instalación, te indicará la interfaz web y a partir de ahí, le das al botón de inicio y a disfrutar de una tarde agradable y sin partirte el lomo buscando bolitas o pregruntándote porqué nunca cantas bingo (respuesta: es porque te faltan bolas en el bombo!)

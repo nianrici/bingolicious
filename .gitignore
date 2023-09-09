@@ -1,8 +1,24 @@
-/__pycache__/
-/node_modules/
-/app.py~
-/static/js/sorteo.js~
-/tailwind.config.js~
-/templates/index.html~
-/package-lock.json
-/pnpm-lock.yaml
+# Archivos Python cache
+__pycache__/
+
+# Módulos de node
+node_modules/
+
+# Archivos temporales de editor 
+*.py~
+*.js~
+index.html~
+
+# Archivos binarios grandes
+static/Falling-Confetti.gif
+
+# Dependencias generadas 
+package-lock.json
+pnpm-lock.yaml
+
+# Logs y datos
+*.log
+*.sqlite
+
+# Archivos de configuración local
+.env
